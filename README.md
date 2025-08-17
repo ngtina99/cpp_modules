@@ -2,7 +2,7 @@
 
 A consolidated workspace for my 42 School C++ modules.
 
-## 📂 Repository Structure
+## 📘 Modules Overview
   <a href="https://github.com/ngtina99/cpp09">CPP09</a> - This module taught me to apply the C++ Standard Template Library (STL), using containers, iterators, and algorithms <br>
   <a href="https://github.com/ngtina99/cpp08">CPP08</a> - The project covers templated containers, iterators, and standard algorithms <br>
   <a href="https://github.com/ngtina99/cpp07">CPP07</a> - I discovered C++ templates and applied them to various default functions <br> 
